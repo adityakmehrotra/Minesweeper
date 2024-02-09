@@ -3,6 +3,7 @@ Created the popular Minesweeper game using Haskell. This game can be played thro
 
 ## Run the Code
 To run the code, run the following command in the Command Line:
+
 `ghc --make CLI.hs -o MinesCLI -main-is CLI`
 
 ### Last Update

@@ -1,3 +1,7 @@
+-- Minesweeper
+-- Created By: Aditya Mehrotra
+-- Last Update: 02/08/2024
+
 module MyBoard (Board(initialize, click, flag, won, lost), MyBoard(width, height, clickedCells, bombs), isMasked, isBomb, isFlagged, isClicked) where
 
 import System.Random

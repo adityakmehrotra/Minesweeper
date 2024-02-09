@@ -1,3 +1,7 @@
+-- Minesweeper
+-- Created By: Aditya Mehrotra
+-- Last Update: 02/08/2024
+
 module CLI (main) where
 
 import MyBoard

@@ -7,4 +7,4 @@ To run the code, run the following command in the Command Line:
 `ghc --make CLI.hs -o MinesCLI -main-is CLI`
 
 ### Last Update
-02/09/2024
+02/13/2024
